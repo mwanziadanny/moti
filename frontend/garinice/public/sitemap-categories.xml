@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://garinice.co.ke/cars/toyota</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/nissan</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/mazda</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/subaru</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/mercedes-benz</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/bmw</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/honda</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/lexus</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/volkswagen</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/land-rover</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/mitsubishi</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/isuzu</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/ford</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/suv</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/saloon</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/hatchback</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/station-wagon</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/pickup-truck</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/van-bus</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/sports-car</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/body/other</loc><priority>0.8</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/under-500k</loc><priority>0.7</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/under-1m</loc><priority>0.7</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/1m-2m</loc><priority>0.7</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/under-2m</loc><priority>0.7</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/2m-5m</loc><priority>0.7</priority></url>
+  <url><loc>https://garinice.co.ke/cars/price/above-5m</loc><priority>0.7</priority></url>
+</urlset>

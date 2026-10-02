@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /account
+Disallow: /messages
+Disallow: /saved
+Disallow: /sell/vehicle
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /cars?*q=
+
+Sitemap: https://garinice.co.ke/sitemap.xml
